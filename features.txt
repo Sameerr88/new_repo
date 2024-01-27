@@ -1,3 +1,7 @@
 Maintain the functionalities 
 reduce time
 notifications
+
+payment option
+send money
+receive money
